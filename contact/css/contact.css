@@ -1,0 +1,12 @@
+body{
+    background-color: #8E5858;
+}
+.care-desk{
+    text-align: center;
+    margin-top: 5%;
+}
+p{
+    color: white;
+    font-size: larger;
+    padding: 10px;
+}
