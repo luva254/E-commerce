@@ -16,4 +16,8 @@ nav .logo{
 nav ul{
     float: right;
 }
+nav ul li{
+    list-style: none;
+    display: inline-block;
+}
 
