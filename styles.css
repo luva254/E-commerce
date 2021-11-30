@@ -13,4 +13,7 @@ nav{
 nav .logo{
     float: left;
 }
+nav ul{
+    float: right;
+}
 
