@@ -1,5 +1,5 @@
 body{
-    background-color: #8E5858;
+    background-color: #eb50d9;
 }
 .care-desk{
     text-align: center;
@@ -11,10 +11,14 @@ p{
     padding: 10px;
 }
 #delInfo, #qualityInfo, #careDeskInfo, #techDesignInfo{
-    color: blue;
+    /* color: blue; */
     display:none ;
 }
 h3{
     cursor: pointer;
     text-decoration: underline;
+    
+}
+h3:hover{
+    color: blue;
 }
