@@ -69,3 +69,17 @@ h1{
     top: 20px;
     
 }
+.image-1{
+    position: absolute;
+    justify-content: center;
+    left: 45%;
+    /* top: 50%; */
+    bottom: 70%;
+    width: 15em;
+}
+.image-2{
+    position: absolute;
+    justify-content: center;
+    left: 70%;
+    bottom: 60%;
+}
