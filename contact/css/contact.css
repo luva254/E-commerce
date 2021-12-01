@@ -10,3 +10,11 @@ p{
     font-size: larger;
     padding: 10px;
 }
+#delInfo, #qualityInfo, #careDeskInfo, #techDesignInfo{
+    color: blue;
+    display:none ;
+}
+h3{
+    cursor: pointer;
+    text-decoration: underline;
+}
