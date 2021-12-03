@@ -54,8 +54,16 @@ nav ul li a:hover{
 h1{
     font-family: 'Red Hat Display', sans-serif;
     margin-left: 30px;
-    font-size: 10px;
+    font-size: 40px;
     font-weight: 500;
+}
+h2{
+    position: relative;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-left: 30%;
+    bottom: 10rem;
 }
 #intro{
     position: relative;
@@ -77,15 +85,16 @@ h1{
 .image-1{
     position: absolute;
     justify-content: center;
-    left: 45%;
-    /* top: 50%; */
-    bottom: 70%;
+    left: 25%;
+    top: 50%;
+    /* bottom: 70%; */
     width: 15em;
 }
 .image-2{
     position: absolute;
     justify-content: center;
     left: 70%;
-    bottom: 60%;
+    top: 40%;
+    /* bottom: 60%; */
 }
 
