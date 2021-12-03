@@ -10,7 +10,7 @@
 nav{
     width: 100%;
     height: 80px;
-    background-color: #c39191;
+    background-color: #F0F0EE;
     line-height: 75px;
     
 }
@@ -45,7 +45,7 @@ nav ul li a:hover{
     height: 10px;
 }
 #home{
-    background-color: #c39191;
+    background-color: #F0F0EE;
     width: 100%;
     height: 100vh;
     background-size: cover;
@@ -81,6 +81,11 @@ h2{
     font-size: 90px;
     top: 20px;
     
+}
+#images{
+    position: relative;
+    justify-content: center;
+    margin: 40px;
 }
 .image-1{
     position: absolute;
