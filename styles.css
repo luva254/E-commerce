@@ -86,6 +86,7 @@ h2{
     position: relative;
     justify-content: center;
     margin: 40px;
+    cursor: pointer;
 }
 .image-1{
     position: absolute;
